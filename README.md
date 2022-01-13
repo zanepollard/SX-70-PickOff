@@ -1,4 +1,4 @@
-FOR NON-COMMERCIAL USE. EMAIL ME (pollardzane@gmail.com) IF YOU DO REPAIRS PROFESSIONALLY AND I WILL SELL YOU SOME OR LICENSE THEM TO YOU. 
+FOR NON-COMMERCIAL USE. EMAIL ME (pollardzane@gmail.com)
 
 This is an STL for the housing of an optosensor/pickoff of the sonar models of sx-70/680/690 cameras.
 
